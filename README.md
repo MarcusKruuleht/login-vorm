@@ -2,7 +2,7 @@
 
 2. Automaatse Node käivituse jaoks on vaja <projekti_nimi>.bat file luua millesse tuleb kirjutada:
 
-@echo off
+@echo off  
 start npm start
 
 
